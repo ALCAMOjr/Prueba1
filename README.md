@@ -61,7 +61,7 @@ Pasos para Ejecutar el Proyecto:
     1. cargo update
     2. Esto actualizará las dependencias del proyecto según las versiones especificadas en el archivo Cargo.toml.
 
-Dirigirse a la ubucación correcta ejecutando 
+Dirigirse a la ubicación correcta ejecutando 
 
     cd calculator    
 
