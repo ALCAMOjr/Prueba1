@@ -1,6 +1,6 @@
 Manual para Ejecutar el Proyecto Rust-Calculator:
 
-A continuación, te presento un manual completo para ejecutar el proyecto de la calculadora escrita en el lenguaje de prgramación Rust. Asegúrate de seguir los pasos y tener todas las dependencias correctamente configuradas en tu proyecto:
+A continuación, te presento un manual completo para ejecutar el proyecto de la calculadora escrita en el lenguaje de programación Rust. Asegúrate de seguir los pasos y tener todas las dependencias correctamente configuradas en tu proyecto:
 
 Requisitos Previos:
 
@@ -35,14 +35,19 @@ name = "calculator"
 version = "0.1.0"
 edition = "2018"
 
+
+
 [dependencies]
 glib = "0.10.3"
 gtk = { version = "0.9.1", features = ["v3_16"] }
 gio = { version = "0.9.1", features = ["v2_44"] }
 
+
+
 [package.metadata.bundler]
 rust-version = "1.51.0"
 Asegúrate de guardar este archivo en el directorio raíz de tu proyecto.
+
 
 
 
