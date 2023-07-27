@@ -1,0 +1,12 @@
+[package]
+name = "calculator"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+glib = "0.10.3"
+gtk = { version = "0.9.1", features = ["v3_16"] }
+gio = { version = "0.9.1", features = ["v2_44"] }
+
+[package.metadata.bundler]
+rust-version = "1.51.0"

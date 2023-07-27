@@ -1,0 +1,11 @@
+/home/alfredo/Documentos/Prueba1/calculator/target/debug/deps/futures_task-8d9be22d34a3376e.rmeta: /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/arc_wake.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker_ref.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs
+
+/home/alfredo/Documentos/Prueba1/calculator/target/debug/deps/futures_task-8d9be22d34a3376e.d: /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/arc_wake.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker_ref.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs /home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs
+
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs:
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs:
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/arc_wake.rs:
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker.rs:
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker_ref.rs:
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs:
+/home/alfredo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs:
