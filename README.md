@@ -1,6 +1,6 @@
 Manual para Ejecutar el Proyecto Rust-Calculator:
 
-A continuación, te presento un manual completo para ejecutar el proyecto de la calculadora GTK. Asegúrate de seguir los pasos y tener todas las dependencias correctamente configuradas en tu proyecto:
+A continuación, te presento un manual completo para ejecutar el proyecto de la calculadora escrita en el lenguaje de prgramación Rust. Asegúrate de seguir los pasos y tener todas las dependencias correctamente configuradas en tu proyecto:
 
 Requisitos Previos:
 
